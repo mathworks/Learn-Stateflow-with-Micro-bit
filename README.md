@@ -49,6 +49,11 @@ Requires MATLAB release R2024b or newer
 **Simulink Model:** RPS_HW_start_2025.slx<br>
 **Description:** Design a Rock Paper Scissors game. Play against the micro:bit, with random choices and outcome display.<br>
 
+### Reaction Game
+**LiveScript:** Reaction_HW_Instructions.mlx<br>
+**Simulink Model:** Reaction_HW_start_2026.slx<br>
+**Description:** Design a two-player reaction game. Be the firstr to press a button once a symbol appears on the micro:bit!<br>
+
 ## License
 The license is available in the License.txt file in this GitHub repository.
 
