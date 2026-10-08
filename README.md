@@ -19,7 +19,7 @@ Requires MATLAB release R2024b or newer
 - [Simulink Coder Support Package for BBC micro:bit Board](https://www.mathworks.com/matlabcentral/fileexchange/60273-simulink-coder-support-package-for-bbc-micro-bit-board)
 
 ### Required Hardware
-- BBC micro:bit board, any version will work
+- BBC micro:bit board, any version will work (but preferably V2)
 - USB type A to Micro-B cable
 
 ### Installation
@@ -28,7 +28,7 @@ Requires MATLAB release R2024b or newer
 3. Connect your BBC micro:bit to your computer via USB.
 
 ## Instructions
-1. Open the Dice, RPS, or Steps ".mlx" live script to follow the step by step instructions
+1. Open the Dice, RPS, Steps, or Reaction Game ".mlx" live script to follow the step by step instructions
 2. Modify and run the models as guided in the LiveScripts.
 3. If needed, completed versions of the models exist in the Finished Models folder
 
@@ -49,12 +49,17 @@ Requires MATLAB release R2024b or newer
 **Simulink Model:** RPS_HW_start_2025.slx<br>
 **Description:** Design a Rock Paper Scissors game. Play against the micro:bit, with random choices and outcome display.<br>
 
+### Reaction Game
+**LiveScript:** Reaction_HW_Instructions.mlx<br>
+**Simulink Model:** Reaction_HW_start_2026.slx<br>
+**Description:** Design a two-player reaction game. Be the firstr to press a button once a symbol appears on the micro:bit!<br>
+
 ## License
 The license is available in the License.txt file in this GitHub repository.
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
-Copyright 2025 The MathWorks, Inc.
+Copyright 2026 The MathWorks, Inc.
 
 
